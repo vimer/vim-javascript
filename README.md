@@ -1,5 +1,8 @@
 # vim-javascript
 
+Fixed:
+![](http://ww1.sinaimg.cn/large/744e593bgw1espz3wu3nxj209i0bv3ze.jpg)
+
 JavaScript bundle for vim, this bundle provides syntax and indent plugins.
 
 > Indentation of javascript in vim is terrible, and this is the very end of it.
